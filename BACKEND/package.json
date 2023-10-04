@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "author": "Viraj",
+  "license": "ISC"
+}
